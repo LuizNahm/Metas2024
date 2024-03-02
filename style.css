@@ -1,10 +1,10 @@
 :root{
-    --cor-de-fundo:#1E1E1E;
+    --cor-de-fundo:#0f547c;
     --verde:#6FFF57;
     --branco:#FFFFFF;
     --botao-ativo:#3A375E;
-    --botao-inativo: #0a1458;
-    --texto-de-fundo:#5e6278;
+    --botao-inativo: #144c81;
+    --texto-de-fundo:#002396;
 
 }
 
@@ -17,7 +17,7 @@ body{
     text-align: center;
 }
 .botão{
-    background-color: rgb(49, 65, 183);
+    background-color: rgb(41, 124, 219);
     font-size: 40px;
     border-radius: 10px;
     color: black;
@@ -28,4 +28,8 @@ body{
 .conteudo-principal{
     display: flex;
     justify-content: center;
+    width: 20px;
+    align-items: center;
+    margin: 0 auto;
+    
 }
